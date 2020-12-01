@@ -1,1 +1,1 @@
-# my-recipies
+# myRecipies
